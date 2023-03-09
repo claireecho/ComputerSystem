@@ -1,0 +1,8 @@
+Headache Needs Pills
+Itchiness Needs Pills
+Pain Right_Foot Needs Cast
+Pain Left_Foot Needs Cast
+Pain Chest Needs Surgery
+Stomachache Needs Pills
+Pain Stab_Wound Needs Surgery
+Food_Poisoning Needs Pills

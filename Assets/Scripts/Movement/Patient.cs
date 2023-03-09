@@ -22,6 +22,7 @@ public class Patient : MonoBehaviour
                      if (Input.GetKeyDown(KeyCode.E)) {
                         Debug.Log("hi");
                         gameObject.transform.position = officeSpawn.transform.position;
+                        gameObject.transform.rotation = officeSpawn.transform.rotation;
                         // transform.Rotate(0, 10f, 0);
                     }
                 }
